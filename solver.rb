@@ -11,5 +11,5 @@ class Solver
         'fizz'
       end
     end
-  end
+end
   

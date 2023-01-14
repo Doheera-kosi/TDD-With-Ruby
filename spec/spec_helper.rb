@@ -1,1 +1,1 @@
-require_relative '../classes/solver'
+require_relative '../solver'
